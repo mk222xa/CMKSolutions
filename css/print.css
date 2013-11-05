@@ -1,0 +1,26 @@
+@media print{
+    ul, li
+    {
+        display:none;
+    }
+.contact_form
+{
+    display:none;
+}
+.gallery a
+{
+    display:block;
+    visibility:visible;
+}
+ .news p a 
+    {
+        color: black;
+        text-decoration: none;
+    }
+    .news p a:after 
+    {
+        content: " ("attr(href)")";
+        font-size: smaller;
+    }
+    }
+}
