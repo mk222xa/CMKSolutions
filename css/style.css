@@ -246,7 +246,7 @@ button.submit {
 p, h1, h2, h3
 {
     font-family: 'Roboto', sans-serif, medium;
-    font-size:medium;
+    font-size:large;
 }
 /*Using a set width so it looks the same on all monitors*/
 .container  

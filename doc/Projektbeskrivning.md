@@ -3,7 +3,7 @@
 Projektmedlemmar: 
 [Mattias Karlsson, mk222xa](https://github.com/mk222xa/)
 
-[Exekverbar version av projektet](https://github.com/mk222xa/ProjektskelettHT13)
+[Exekverbar version av projektet](www.cmk-solutions.com)(https://github.com/mk222xa/CMK-Solutions)(https://github.com/mk222xa/CMKSolutions)
 
 ## Beskrivning av projektet
 Skapa en sida för CMK-solutions, en sida jag tänkte använda mig av för att skapa eget i framtiden. Sidan kommer innehålla en startsida med nyheter, en bloggsida där jag skapar en egen blogg, en kontaktsida med ett kontaktformulär och olika kontaktalternativ, en sida med ett mindre galleri, en sida med information om CMK-Solutions, en sida med tjänster samt en sida med lämpliga länkar och tips. Målet är en ren och lättläst sida med tydlig information och navigering. En Facebook like knapp. Kommer även att ha en favicon och skapa ikon för iPhone.
